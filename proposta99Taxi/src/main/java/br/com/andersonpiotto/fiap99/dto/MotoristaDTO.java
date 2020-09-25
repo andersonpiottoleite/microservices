@@ -4,6 +4,13 @@ import lombok.EqualsAndHashCode;
 import lombok.Getter;
 import lombok.Setter;
 
+/** Classe que DTO representa o dados do <code>Motorista</code>
+ * 
+ * @author Anderson Piotto
+ * @since 24/09/2020
+ * @version 1.0.0
+ */
+
 @EqualsAndHashCode(of = "id")
 @Getter
 @Setter

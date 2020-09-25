@@ -13,7 +13,7 @@ import org.springframework.web.client.RestTemplate;
 
 import br.com.andersonpiotto.fiap99.dto.MotoristaDTO;
 
-/** Classe que representa o client de Motorista
+/** Classe que representa o client de consulta aos dados do <code>Motorista</code> no Detran
  * 
  * @author Anderson Piotto
  * @since 24/09/2020

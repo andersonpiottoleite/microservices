@@ -7,6 +7,13 @@ import br.com.andersonpiotto.fiap99.dto.MotoristaDTO;
 import br.com.andersonpiotto.fiap99.model.CNH;
 import br.com.andersonpiotto.fiap99.model.Motorista;
 
+/** Classe que representa um conversor de objetos para o <code>Motorista</code>
+ * 
+ * @author Anderson Piotto
+ * @since 24/09/2020
+ * @version 1.0.0
+ */
+
 @Component
 public class MotoristaConverter {
 	

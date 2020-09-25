@@ -12,6 +12,13 @@ import org.springframework.web.bind.annotation.RestController;
 import br.com.andersonpiotto.fiap99.mock.factory.MotoristaMockFactory;
 import br.com.andersonpiotto.fiap99.service.MotoristaService;
 
+/** Classe que representa o Controler do <code>Motorista</code>
+ * 
+ * @author Anderson Piotto
+ * @since 24/09/2020
+ * @version 1.0.0
+ */
+
 @RestController
 @RequestMapping("/api/v1") 
 public class MotoristaController {

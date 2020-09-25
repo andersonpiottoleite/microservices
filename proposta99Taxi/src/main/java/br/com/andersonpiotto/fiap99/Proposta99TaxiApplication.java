@@ -3,6 +3,13 @@ package br.com.andersonpiotto.fiap99;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+/** Classe que representa o inicio da aplicação
+ * 
+ * @author Anderson Piotto
+ * @since 24/09/2020
+ * @version 1.0.0
+ */
+
 @SpringBootApplication
 public class Proposta99TaxiApplication {
 

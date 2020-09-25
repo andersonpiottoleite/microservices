@@ -3,7 +3,7 @@ package br.com.andersonpiotto.fiap99;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-/** Classe que representa o inicio da aplicação
+/** Classe que representa a inicialização do Tomcat da aplicação
  * 
  * @author Anderson Piotto
  * @since 24/09/2020
